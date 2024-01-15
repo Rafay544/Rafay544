@@ -1,3 +1,5 @@
+
+<img src="https://raw.githubusercontent.com/shehza-d/shehza-d/main/myAssets/github-banner.jpeg"/>
 <h1 align="center">Hi 👋, I'm RAFAY</h1>
 <h3 align="center">A passionate Web Designer from Pakistan</h3>
 
